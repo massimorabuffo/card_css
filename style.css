@@ -1,0 +1,15 @@
+img{
+    width: 15em;
+    height: auto;
+}
+
+.entireCard{
+    width: 240px;
+    border: 1px solid lightgrey;
+}
+
+.body, #firstItem, #secondItem, #thirdItem, .links{
+    margin: 10px;
+    
+}
+
